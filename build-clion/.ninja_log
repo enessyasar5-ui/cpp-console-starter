@@ -1,5 +1,0 @@
-# ninja log v6
-19	79	7987444395023766	CMakeFiles/c_hello.dir/main.c.obj	ddcefd9e3c8273a0
-80	161	7987444395772966	c_hello.exe	4adde6876f9118ad
-23	406	7987444395205539	CMakeFiles/cpp_hello.dir/main.cpp.obj	876ecad3e1d933bd
-407	481	7987444399047403	cpp_hello.exe	f84e11597edbae4b
